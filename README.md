@@ -1,5 +1,7 @@
-# examples_componovschik9
-examples componovschik  Android  Qt_6_2_4 
+# Examples Linker 9: Qt=>Creator=>Design (Linker Form) or examples_componovschik9 for Android  Qt_6_2_4 
+
+it is not the best idea to use Form (Qt Creator in Design-mode) for Android
+(не самая лучщая идея использовать Form (Qt Creator in Design-mode) для Android)
 
 test for Android Qt Creator Design Form
 
